@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "720632722551",
+    "firebase_url": "https://proyect-asistencia.firebaseio.com",
+    "project_id": "proyect-asistencia",
+    "storage_bucket": "proyect-asistencia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720632722551:android:c5d19cd4278c7d62",
+        "android_client_info": {
+          "package_name": "com.peredom.asistencia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720632722551-93ddu725dsklkqd3g05o3sb5ld0uivoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWMOWrRAIJRsxvm8bAjdyYmich5hv08os"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

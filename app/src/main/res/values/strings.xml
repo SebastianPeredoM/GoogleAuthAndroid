@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Asistencia</string>
+    <string name="disminuir">disminuir</string>
+    <string name="aumentar">aumentar</string>
+    <string name="otro_acceso_a_google">Otro acceso a google</string>
+    <string name="logout">logout</string>
+    <string name="revoke">revoke</string>
+</resources>
